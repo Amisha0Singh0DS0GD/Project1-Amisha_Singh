@@ -25,3 +25,4 @@ This project explores how coders approach problem-solving, debugging, and struct
 - dataset – Sample dataset that contains data obtained after video processing.
 
 Charts and graphs are included in the blog.
+(All the codes were written on google colab downloaded as python notebook)
