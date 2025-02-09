@@ -13,12 +13,15 @@ This project explores how coders approach problem-solving, debugging, and struct
 
 ## **Repository Contents**
 
-📄 blog.md – Detailed methodology & findings.
+- blog_post.pdf – Contains detailed methodology,analysis & findings.
 
-🎬 video_processing.py – Extracts video frames and text.
+- video_processing.ipynb – Contains code to extract frames from  video, preprocess the frames and the extraction 
+                           of code from the frames.
 
-🔍 video_analysis.py – Analyzes extracted code snippets.
+- video_analysis.ipynb – Contains code for analysis and identifying pattern from the extracted result.
 
-📈 metrics_visualization.py – Creates visual representations of the findings.
+- metrics_visualization.ipynb – Contains code for visualization of the metrics obtained(specifically here I have the code for the metrics obtained for two videos of my dataset that I have presented in my blog).
 
-📂 dataset/ – Sample CSV files with processed metadata.
+- dataset – Sample dataset that contains data obtained after video processing.
+
+Charts and graphs are included in the blog.
